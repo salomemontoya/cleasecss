@@ -1,0 +1,23 @@
+p {
+    font-size: 80px;
+    font-family:"Impact";
+    font-weight: bold;
+    color:#33FFDD;
+    text-align:right;
+    
+
+}
+body{
+    background-image: Url(https://peru21.pe/resizer/aX5g8cUbIMDvbyePGeKdNau_s1k=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/DD7BESF7HZECNNJOJHQIALQFZ4.jpg)
+}
+
+header{
+    background-color: aqua;
+}
+
+main{
+    background-color: blueviolet;
+}
+footer{
+    background-color: brown;
+}
